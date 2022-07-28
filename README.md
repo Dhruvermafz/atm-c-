@@ -1,9 +1,9 @@
-Hi, I’m @Dhruvermafz
-I’m interested in UI & UX desingning and Frontend Developing.
-I’m currently learning C# and UI designing from Udemy.
-Reach me at @vermadhruv09112002@gmailcom
-Currently I am just interesting in any open source of knowledge.
 
+🌱 I’m currently learning everything 🤣
+👯 I’m looking to collaborate with other content creators
+🥅 2021 Goals: Contribute more to Open Source projects
+📫 How to reach me: @vermadhruv09112002@gmail.com;
+⚡ Fun fact: I love to do video editing stuffs and all.
 
 <!---
 Dhruvermafz/Dhruvermafz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
